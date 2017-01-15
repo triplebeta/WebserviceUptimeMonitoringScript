@@ -1,0 +1,15 @@
+[
+  {
+    "name": "My API",
+    "url": "https://here-goes-your-url",
+    "headers": {
+      "X-API-KEY": "SomeKey"
+    },
+    "slackChannel": "#general"
+  },
+  {
+    "name": "My 2nd API",
+    "url": "https://another-webservice-to-test-without-headers",
+    "slackChannel": "#general"
+  }
+]
